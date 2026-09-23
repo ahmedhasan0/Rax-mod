@@ -1,0 +1,46 @@
+{
+  "config_version": 1,
+  "mod_url": "https://github.com/ahmedhasan0/Rax-mod/releases/download/pubg/Test.channelr",
+
+  "update": {
+    "show": true,
+    "title": "🎉 تحديث جديد!",
+    "message": "الإصدار الجديد متوفر الآن بمميزات إضافية.",
+    "button": "تحميل الآن",
+    "url,"https://t.me/RVV_0",
+    "badge": "NEW"
+  },
+
+  "versions": [
+    {
+      "id": "global",
+      "name": "PUBG Mobile — Global",
+      "name_ar": "ببجي موبايل — العالمية",
+      "package": "com.tencent.ig",
+      "install_path": "/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks",
+      "file_type": "auto",
+      "sha256": "",
+      "enabled": true
+    },
+    {
+      "id": "kr",
+      "name": "PUBG Mobile — Korea",
+      "name_ar": "ببجي موبايل — الكورية",
+      "package": "com.pubg.krmobile",
+      "install_path": "/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks",
+      "file_type": "auto",
+      "sha256": "",
+      "enabled": true
+    },
+    {
+      "id": "vn",
+      "name": "PUBG Mobile — Vietnam",
+      "name_ar": "ببجي موبايل — الفيتنامية",
+      "package": "com.vng.pubgmobile",
+      "install_path": "/storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks",
+      "file_type": "auto",
+      "sha256": "",
+      "enabled": true
+    }
+  ]
+}
